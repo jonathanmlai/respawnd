@@ -1,6 +1,6 @@
 # respawnd
 
-Thesis project for CSULB HXDI program.
+Respawnd app: thesis project for CSULB HXDI program.
 
 ## Getting Started
 
