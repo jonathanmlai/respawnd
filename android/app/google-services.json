@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "566228969316",
+    "project_id": "respawnd-ed039",
+    "storage_bucket": "respawnd-ed039.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566228969316:android:68b0f712e13ee53b307c71",
+        "android_client_info": {
+          "package_name": "com.jonathanmtlai.respawnd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566228969316-4bfvi609l0toga42msa2akg003r643d9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLnuRW_rtLKbNkGymou36YTguQGRy3Q94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566228969316-4bfvi609l0toga42msa2akg003r643d9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "566228969316-r18ie1tomaan0l5mo84ip994csp45of0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jonathanmtlai.respawnd"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
